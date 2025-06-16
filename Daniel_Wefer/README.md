@@ -19,3 +19,14 @@
  - toured ATMOS facility
  - attended Eddy Covariance workshop
 ----------------------------------------------
+
+### Week 3
+
+----------------------------------------------
+ - got set up on gce compute
+ - implemented vertical and horizontal wavelet transforms and experimented with adding different quantities of each for edge detection
+ - implemented OTSU automated thresholding then applied edge detection to the results
+ - Tested methods for removing noise
+ - created a clean script to run these steps on multiple cases and save the result as a entCDF
+ - ran the script on 10 days of ceilometer data
+----------------------------------------------
