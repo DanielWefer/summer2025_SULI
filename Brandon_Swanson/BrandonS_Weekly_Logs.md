@@ -32,3 +32,18 @@
 - [x] Plot Pair Plots of K-Means clusters
 - [x] Plot Box Plots of variables from clusters
 - [x] Also added time dimension since it got unintentionally removed (etc)
+
+-----------------
+**Week 5**<br>*Week of June 23 - June 27*
+- [x] Determine the best number of clusters with an elbow plot
+- [x] Make Mosaic plots
+- [ ] Clean up code
+- [ ] Make final plots and figures (including mosaic plot if possible)
+- [ ] (This week I worked from home on June 23 and 27th. June 23rd was due to some issues that occurred over the weekend)
+- [ ] etc
+
+-----------------
+**Week 5**<br>*Week of June 30 - July 4*
+- [ ] Clean up code
+- [ ] Make final plots and figures
+- [ ] etc
